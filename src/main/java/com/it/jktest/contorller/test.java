@@ -9,6 +9,6 @@ public class test {
     @RequestMapping("/query")
     @ResponseBody
     public String query() {
-        return "update my self test jekins";
+        return "update successful ";
     }
 }
